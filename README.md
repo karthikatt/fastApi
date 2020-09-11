@@ -20,8 +20,6 @@ Software requirement:
 
 Python
 
-Mysql 5.6+
-
 PIP
 
 Installation:
